@@ -1,0 +1,12 @@
+lfs=0.6R
+status=online
+guests=0
+maxguests=8
+host=Host Name
+pass=
+usemaster=no
+trackcfg=FE1X
+cars=11111111111111111111
+qual=0
+laps=0
+conn=host
